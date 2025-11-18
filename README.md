@@ -11,6 +11,7 @@
 
 <h3>Js e Css puro</h3>
 
+<p>Metalverse - https://metalverse.vercel.app/</p>
 <p>Living - https://github.com/Kenzie-Academy-Brasil-Developers/livingbase-gusdinizmaia</p>
 <p>Pet Info - https://github.com/Kenzie-Academy-Brasil-Developers/petinfobase-gusdinizmaia</p>
 <p>Git Search - https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase-gusdinizmaia</p>
