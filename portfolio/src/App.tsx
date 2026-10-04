@@ -5,7 +5,7 @@ import { MainRoutes } from "./Routes";
 
 export function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/meu-portfolio/" >
       <ProviderUser>
         <Header />
         <MainRoutes />
